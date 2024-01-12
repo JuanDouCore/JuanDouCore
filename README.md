@@ -25,6 +25,7 @@
 - **Postman, JWT, Amazon Web Services**
 
 ## Proyectos Destacados 🌟
+- [ECommerceAPi](https://github.com/JuanDouCore/EcoommerceApi) - API Rest que recrea un sistema funcional tipico de un ECommerce.
 - [Sistema de Gestión Interna Hotelera](https://github.com/JuanDouCore/GestionHotelera) - API Rest que representa un sistema para gestión interna de pequeñas cadenas hoteleras.
 
 ## Contáctame 📬
